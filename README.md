@@ -8,7 +8,7 @@ Myeloid cells are pivotal in autoimmune disorder development due to their varied
 
 # Map the single cell data to the reference 
 
-A jupyter notebook tutorial is available in this repository to show how to use Symphony to map the myeloid single cell data to the reference. The reference data is available for download here (https://drive.google.com/drive/folders/1TrcI0VIkg0LoGjB6nbzrFzHkSYoXRF6v?usp=drive_link)
+A Jupyter notebook tutorial is available in this repository to show how to use Symphony to map the myeloid single cell data to the reference. The reference data is available for download [here](https://drive.google.com/drive/folders/1TrcI0VIkg0LoGjB6nbzrFzHkSYoXRF6v?usp=drive_link).
 
 # Citation 
 
